@@ -33,7 +33,7 @@ public class Punct {
         return dist;
     }
     public double distance(Punct p1) {
-        double dist = Math.sqrt((this.x - p1.getX())*2 + (this.y - p1.getY())*2);
+        double dist = Math.sqrt(Math.pow(this.x - p1.getX(), 2) + Math.pow(this.y - p1.getY(), 2));
         return dist;
     }
 }

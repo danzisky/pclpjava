@@ -12,6 +12,6 @@ public class Test {
         ComplexNumber c1 = new ComplexNumber(1, 2);
         ComplexNumber c2 = new ComplexNumber(-1, 3);
         System.out.println("The sum of complex number " + c1 + " and " + c2+ " is: " + c1.add(c2));
-        System.out.println("Their absolute values are " + c1 + " and " + c2 + "respectively");
+        System.out.println("Their absolute values are " + c1.absValue() + " and " + c2.absValue() + " respectively");
     }
 }

@@ -1,5 +1,3 @@
-package Tema_6;
-
 public class ComplexNumber {
     private double real, imag;
 

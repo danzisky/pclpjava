@@ -68,4 +68,8 @@ public class ComplexNumber {
         this.real = this.getImaginary() - c.getImaginary();
         return this;
     }
+
+    public double absValue() {
+        return (double) Math.sqrt(Math.pow(this.real, 2.00) + Math.pow(this.imag, 2.00));
+    }
 }

@@ -44,6 +44,7 @@ public class Fractie {
         if (b == 0) {
             return a;
         }
+        System.out.println("Sum between number, a, b, c and d: ");
         return cmmdc(b, a % b);
     }
 

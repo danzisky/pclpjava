@@ -1,4 +1,4 @@
-package Tema7;
+package Tema7.Ex1;
 
 class Parallelogram extends Quadrilateral {
     public Parallelogram(int side1, int side2, double angle1, double angle2) {

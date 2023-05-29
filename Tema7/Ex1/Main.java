@@ -1,4 +1,4 @@
-package Tema7;
+package Tema7.Ex1;
 
 public class Main {
     public static void main(String[] args) {

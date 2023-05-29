@@ -1,4 +1,4 @@
-package Tema7;
+package Tema7.Ex1;
 
 public class Quadrilateral {
     public int side1, side2, side3, side4;

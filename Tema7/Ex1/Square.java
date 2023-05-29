@@ -1,4 +1,4 @@
-package Tema7;
+package Tema7.Ex1;
 
 class Square extends Rectangle {
     public Square(int side) {

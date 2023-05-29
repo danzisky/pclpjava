@@ -1,4 +1,4 @@
-package Tema7;
+package Tema7.Ex1;
 
 class Rectangle extends Parallelogram {
     public Rectangle(int length, int width) {
